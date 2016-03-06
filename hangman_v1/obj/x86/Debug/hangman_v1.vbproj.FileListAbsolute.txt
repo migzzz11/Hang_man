@@ -1,0 +1,9 @@
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\bin\Debug\hangman_v1.exe
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\bin\Debug\hangman_v1.pdb
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\bin\Debug\hangman_v1.xml
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\obj\x86\Debug\hangman_v1.frm_main.resources
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\obj\x86\Debug\hangman_v1.Resources.resources
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\obj\x86\Debug\hangman_v1.vbproj.GenerateResource.Cache
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\obj\x86\Debug\hangman_v1.exe
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\obj\x86\Debug\hangman_v1.xml
+c:\users\-mhigz\documents\visual studio 2010\Projects\hangman_v1\hangman_v1\obj\x86\Debug\hangman_v1.pdb
